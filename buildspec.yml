@@ -1,5 +1,5 @@
 # AWS CodeBuild buildspec to build the sprong boot maven jdk  image
-# By Ashish Banola (abaws2018@gmail.com)
+# By Ashish Banola (abaws20186@gmail.com)
 
 # This requires the following environment variables be set on the Project:
 # AWS_DEFAULT_REGION (Supplied by CodeBuild)
